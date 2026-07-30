@@ -548,7 +548,8 @@
     "263786747310",
     "22661447654",
     "380987811792",
-    "380681424610"
+    "380681424610",
+    "380675285438"
   ],
   "manualNumbers": [
     {
@@ -1050,14 +1051,6 @@
     {
       "id": "num_1785333898184_j3joq",
       "number": "380962488653",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_36ylp",
-      "number": "380675285438",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
@@ -15410,6 +15403,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-07-30T15:52:12.000Z",
+      "number": "380675285438",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp code 351-866n4sgLq1p5sV6",
+      "country": "Ukraine",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -17271,14 +17272,6 @@
       "service": "WhatsApp",
       "message": "Code WhatsApp  609-532\nNe partagez pas ce code",
       "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-27T12:01:21.000Z",
-      "number": "258861152988",
-      "service": "WhatsApp",
-      "message": "# Kode WhatsApp 195-462\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6",
-      "country": "Mozambique",
       "source": "Api 5"
     }
   ]
