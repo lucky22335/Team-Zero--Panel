@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T20:16:54.000Z",
+          "number": "258866560388",
+          "service": "msverify",
+          "message": "Use verification code 723725 for B2C Profile Page authentication",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-30T20:13:58.000Z",
           "number": "258861111238",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "380680099951",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp Business code 177-912nrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:05:07.000Z",
-          "number": "380681424610",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 380-529nDont share this code with othersn4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -801,7 +801,8 @@
     "380987811792",
     "380681424610",
     "380680099951",
-    "258861111238"
+    "258861111238",
+    "258866560388"
   ],
   "manualNumbers": [
     {
