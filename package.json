@@ -1,0 +1,29 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "build": "BASE_PATH=/ PORT=3000 npm run typecheck && BASE_PATH=/ PORT=3000 npm run build --workspaces --if-present",
+    "dev": "BASE_PATH=/ PORT=3000 npm run build --workspace=@workspace/team-zero-panel && PORT=3000 npm run dev --workspace=@workspace/api-server",
+    "start": "NODE_ENV=production node --enable-source-maps artifacts/api-server/dist/index.mjs",
+    "typecheck:libs": "tsc --build",
+    "typecheck": "npm run typecheck:libs && npm run typecheck --workspaces --if-present"
+  },
+  "workspaces": [
+    "artifacts/*",
+    "lib/*",
+    "lib/*/*",
+    "scripts"
+  ],
+  "private": true,
+  "dependencies": {
+    "@replit/connectors-sdk": "^0.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.5",
+    "typescript": "~5.9.3"
+  }
+}

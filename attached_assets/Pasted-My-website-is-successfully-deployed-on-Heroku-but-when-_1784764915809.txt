@@ -1,0 +1,44 @@
+My website is successfully deployed on Heroku, but when I open it, it shows "Application Error". I want you to completely analyze and fix the entire project without removing any existing features.
+
+Tasks:
+
+1. Find the exact cause of the Heroku "Application Error".
+2. Check all server startup files (index.js, server.js, app.js, main.js, etc.).
+3. Fix all runtime errors, deployment issues, and startup failures.
+4. Verify that the application is listening on Heroku's assigned PORT variable.
+5. Replace any hardcoded ports with:
+   process.env.PORT || 5000
+6. Ensure the Procfile is correct and points to the proper startup file.
+7. Fix package.json scripts:
+   - start
+   - build
+   - postinstall
+   - preinstall
+8. Fix all pnpm, npm, Node.js, and dependency conflicts.
+9. Check and fix missing environment variables and provide safe fallbacks where possible.
+10. Scan the entire project for:
+    - Application crashes
+    - Unhandled exceptions
+    - Missing modules
+    - Database connection failures
+    - API failures
+    - Telegram Bot failures
+    - WhatsApp/Baileys failures
+    - Gemini AI failures
+11. Fix all Heroku compatibility issues.
+12. Ensure static files and routes are correctly served.
+13. Fix any infinite loops or memory leaks causing crashes.
+14. Verify that every API endpoint works correctly after deployment.
+15. Preserve all existing functionality. Do NOT remove any features.
+
+Deployment Requirements:
+- The application must run successfully on Heroku.
+- Opening the Heroku URL should load the website normally.
+- There must be no "Application Error", "Build Failed", or startup errors.
+- The project must work with GitHub → Heroku automatic deployment.
+- All dependencies must install successfully in a clean Heroku environment.
+- Add proper error handling and startup logs to make future debugging easier.
+- Test the project as if it is running on a fresh Heroku deployment.
+
+IMPORTANT:
+Do not apply temporary fixes. Implement production-ready and permanent solutions only. Keep every existing feature working while making the project fully compatible with Heroku.

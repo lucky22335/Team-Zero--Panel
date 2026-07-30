@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Team Zero Panel"
+version = "1.0.0"
+id = "artifacts/team-zero-panel"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24106
+
+[services.development]
+run = "pnpm --filter @workspace/team-zero-panel run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/team-zero-panel", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/team-zero-panel/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24106"
+BASE_PATH = "/"

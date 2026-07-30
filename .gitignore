@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env*
+.bun/
+artifacts/*/node_modules/
+artifacts/*/dist/
+*.log
