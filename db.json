@@ -1,262 +1,5 @@
 {
-  "users": [
-    {
-      "id": "user_1785427747948",
-      "username": "Ariyan islam ",
-      "email": "ariyanislam21219@gmail.com",
-      "password": "ariyan1212",
-      "botConfig": {
-        "token": "",
-        "groupId": "",
-        "ownerChatId": "",
-        "botLink": "",
-        "otpGroupUrl": ""
-      },
-      "subscribers": [],
-      "otpHistory": [
-        {
-          "timestamp": "2026-07-30T16:36:59.000Z",
-          "number": "258860112925",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 389-075\nDont share this code with others\nrJbAXP1KV",
-          "country": "Mozambique",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T16:29:36.000Z",
-          "number": "380984728723",
-          "service": "WhatsApp",
-          "message": "# Size ait bir hesap WhatsApp yeni bir cihazda kaydediliyornnBu kodu kimseye vermeyinnWhatsApp kodunuz 568-764n4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "API 2"
-        },
-        {
-          "timestamp": "2026-07-30T16:26:12.000Z",
-          "number": "263773284779",
-          "service": "TotalE",
-          "message": "Dear Customer payment method 791353000781001505 - purchased 40000 on 30072026 182600 at TOTALENERGIES BELGRAVIA",
-          "country": "Zimbabwe",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T16:26:12.000Z",
-          "number": "263773284779",
-          "service": "TotalE",
-          "message": "Dear Customer payment method 791353000781001505 -  purchased 40000 on 30072026 182600 at TOTALENERGIES BELGRAVIA",
-          "country": "Zimbabwe",
-          "source": "API 2"
-        },
-        {
-          "timestamp": "2026-07-30T16:24:30.000Z",
-          "number": "380984728154",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 415-456nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:04:08.000Z",
-          "number": "380680099951",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp Business code 177-912nrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:05:07.000Z",
-          "number": "380681424610",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 380-529nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:05:45.000Z",
-          "number": "380987811792",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 562-319nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:17:55.000Z",
-          "number": "22661447654",
-          "service": "FACEBOOK",
-          "message": "# 009578 est votre code Facebook H29QFsn4Sr",
-          "country": "Burkina Faso",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:28:41.000Z",
-          "number": "380974767542",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp Business code 211-592nrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T00:29:43.000Z",
-          "number": "380970547985",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp code 161-232n4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:31:27.000Z",
-          "number": "380987851214",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 243-974nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:31:42.000Z",
-          "number": "380965238828",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 411-210nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:34:31.000Z",
-          "number": "380680095199",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 173-066nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:36:36.000Z",
-          "number": "380688411180",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 936-962nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:37:28.000Z",
-          "number": "380685872296",
-          "service": "WhatsApp",
-          "message": "# Code WhatsApp 307-879nNe partagez pas ce coden4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:39:24.000Z",
-          "number": "380675285746",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 835-919nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:39:55.000Z",
-          "number": "380987428590",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 267-731nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:41:11.000Z",
-          "number": "380686033177",
-          "service": "WhatsApp",
-          "message": "# Code WhatsApp 102-766nNe partagez pas ce coden4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:41:18.000Z",
-          "number": "380982049398",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 223-745nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:46:03.000Z",
-          "number": "380974038796",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 700-282nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:49:25.000Z",
-          "number": "380688212094",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 916-408nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:50:34.000Z",
-          "number": "380974840794",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 330-461nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:53:10.000Z",
-          "number": "380965237096",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 527-948nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:54:59.000Z",
-          "number": "380688866370",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 322-950nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:55:19.000Z",
-          "number": "380982041933",
-          "service": "WhatsApp",
-          "message": "# Akun WhatsApp Anda sedang didaftarkan di perangkat barunnJangan bagikan kode dengan siapa punnKode WhatsApp Anda 113-487n4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:56:06.000Z",
-          "number": "380963946941",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 991-432nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:56:43.000Z",
-          "number": "380686034760",
-          "service": "WhatsApp",
-          "message": "# Akun WhatsApp Anda sedang didaftarkan di perangkat barunnJangan bagikan kode dengan siapa punnKode WhatsApp Anda 742-256n4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:58:02.000Z",
-          "number": "380965230142",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 686-372nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T02:00:23.000Z",
-          "number": "380674284188",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 373-199nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        }
-      ]
-    }
-  ],
+  "users": [],
   "claimedNumbers": [
     "258860229674",
     "258860634116",
@@ -506,38 +249,7 @@
     "258860299305",
     "50932831679",
     "258861387272",
-    "263774344865",
-    "263773284779",
-    "211981401020",
-    "263775383207",
-    "263776901276",
-    "263774390459",
-    "263784733762",
-    "263773176920",
-    "263772914759",
-    "211981407417",
-    "263774641919",
-    "263771043378",
-    "263781434302",
-    "263772509688",
-    "263771187749",
-    "263771651495",
-    "263773027756",
-    "263771254021",
-    "211981405516",
-    "263774963127",
-    "263775420819",
-    "263772111168",
-    "263776429714",
-    "263773153392",
-    "263773424379",
-    "211981407603",
     "258866835511",
-    "263775867120",
-    "263778815280",
-    "263772562929",
-    "263788837240",
-    "263773216866",
     "258860073718",
     "258860281917",
     "50932864007",
@@ -549,7 +261,6 @@
     "258866373714",
     "258860136265",
     "258867304066",
-    "992918689127",
     "263786594105",
     "263786353518",
     "263784584998",
@@ -561,6 +272,7 @@
     "380675285438",
     "380962481034",
     "380985827548",
+    "263775867120",
     "380962486964",
     "380970547234",
     "380674280151",
@@ -678,6 +390,7 @@
     "380675283118",
     "380688211153",
     "380688212879",
+    "992918689127",
     "380680098404",
     "380684521452",
     "380684522789",
@@ -789,6 +502,7 @@
     "380681424610",
     "380680099951",
     "380984728154",
+    "263773284779",
     "380984728723"
   ],
   "manualNumbers": [
@@ -1227,6 +941,14 @@
     {
       "id": "num_1785333898184_ku42h",
       "number": "380680092433",
+      "country": "Ukraine",
+      "server": "Api 6",
+      "addedAt": "2026-07-29T14:04:58.184Z",
+      "autoAdded": true
+    },
+    {
+      "id": "num_1785333898184_1hdmw",
+      "number": "380675283784",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
@@ -4523,6 +4245,14 @@
     {
       "id": "num_1785333898190_3al21",
       "number": "263772901069",
+      "country": "Zimbabwe",
+      "server": "Api 6",
+      "addedAt": "2026-07-29T14:04:58.184Z",
+      "autoAdded": true
+    },
+    {
+      "id": "num_1785333898190_3i9y2",
+      "number": "263772343793",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
@@ -9321,6 +9051,14 @@
       "autoAdded": true
     },
     {
+      "id": "num_1785333898210_wqcn0",
+      "number": "263773765241",
+      "country": "Zimbabwe",
+      "server": "Api 6",
+      "addedAt": "2026-07-29T14:04:58.184Z",
+      "autoAdded": true
+    },
+    {
       "id": "num_1785333898210_0zmvz",
       "number": "263771784316",
       "country": "Zimbabwe",
@@ -12033,6 +11771,14 @@
       "autoAdded": true
     },
     {
+      "id": "num_1785414566487_3h12b",
+      "number": "380965237757",
+      "country": "Ukraine",
+      "server": "Api 6",
+      "addedAt": "2026-07-30T12:29:26.401Z",
+      "autoAdded": true
+    },
+    {
       "id": "num_1785414566487_7hf3t",
       "number": "380684529065",
       "country": "Ukraine",
@@ -12851,6 +12597,14 @@
     {
       "id": "num_1785414566499_qm0yl",
       "number": "380967721540",
+      "country": "Ukraine",
+      "server": "Api 6",
+      "addedAt": "2026-07-30T12:29:26.401Z",
+      "autoAdded": true
+    },
+    {
+      "id": "num_1785414566499_b5q4t",
+      "number": "380984729784",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-30T12:29:26.401Z",
