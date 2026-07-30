@@ -549,7 +549,8 @@
     "22661447654",
     "380987811792",
     "380681424610",
-    "380675285438"
+    "380675285438",
+    "380969580809"
   ],
   "manualNumbers": [
     {
@@ -15411,6 +15412,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-07-30T15:53:19.000Z",
+      "number": "380969580809",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business code 235-131nDont share this code with othersnrJbAXP1KV",
+      "country": "Ukraine",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -17263,14 +17272,6 @@
       "number": "50932856962",
       "service": "WhatsApp",
       "message": "# كود ‏واتساب الخاص بك ‎585-286\nلا تطلع أحداً عليه\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-27T10:36:21.000Z",
-      "number": "50932856962",
-      "service": "WhatsApp",
-      "message": "Code WhatsApp  609-532\nNe partagez pas ce code",
       "country": "Haiti",
       "source": "Api 5"
     }
