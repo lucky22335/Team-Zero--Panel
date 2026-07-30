@@ -1,5 +1,20 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": "user_1785427747948",
+      "username": "Ariyan islam ",
+      "email": "ariyanislam21219@gmail.com",
+      "password": "ariyan1212",
+      "botConfig": {
+        "token": "",
+        "groupId": "",
+        "ownerChatId": "",
+        "botLink": "",
+        "otpGroupUrl": ""
+      },
+      "subscribers": []
+    }
+  ],
   "claimedNumbers": [
     "258860229674",
     "258860634116",
