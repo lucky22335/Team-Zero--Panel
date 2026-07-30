@@ -550,7 +550,8 @@
     "380987811792",
     "380681424610",
     "380675285438",
-    "380969580809"
+    "380969580809",
+    "380974767197"
   ],
   "manualNumbers": [
     {
@@ -15420,6 +15421,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-07-30T15:59:34.000Z",
+      "number": "380974767197",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp code 153-939n4sgLq1p5sV6",
+      "country": "Ukraine",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -17264,14 +17273,6 @@
       "number": "50932856962",
       "service": "WhatsApp",
       "message": "# \nلا تشارك رمز ‏واتساب مع أحد ‎428-150\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-27T10:19:54.000Z",
-      "number": "50932856962",
-      "service": "WhatsApp",
-      "message": "# كود ‏واتساب الخاص بك ‎585-286\nلا تطلع أحداً عليه\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
