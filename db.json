@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T19:01:18.000Z",
+          "number": "258860616064",
+          "service": "Facebook",
+          "message": "# 559775 é o código de Facebook H29QFsn4Sr",
+          "country": "Mozambique",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-30T18:58:46.000Z",
           "number": "258860124041",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "380987428590",
           "service": "WhatsApp",
           "message": "# Your WhatsApp code 267-731nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:41:11.000Z",
-          "number": "380686033177",
-          "service": "WhatsApp",
-          "message": "# Code WhatsApp 102-766nNe partagez pas ce coden4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -791,7 +791,8 @@
     "22661447654",
     "380987811792",
     "380681424610",
-    "380680099951"
+    "380680099951",
+    "258860616064"
   ],
   "manualNumbers": [
     {
