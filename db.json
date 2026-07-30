@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T21:51:03.000Z",
+          "number": "258860563350",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business code 165-836\nDont share this code with others\nrJbAXP1KV",
+          "country": "Mozambique",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-30T21:03:23.000Z",
           "number": "992716450479",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "# Size ait bir hesap WhatsApp yeni bir cihazda kaydediliyornnBu kodu kimseye vermeyinnWhatsApp kodunuz 568-764n4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-07-30T16:26:12.000Z",
-          "number": "263773284779",
-          "service": "TotalE",
-          "message": "Dear Customer payment method 791353000781001505 - purchased 40000 on 30072026 182600 at TOTALENERGIES BELGRAVIA",
-          "country": "Zimbabwe",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
@@ -802,7 +802,8 @@
     "22661447654",
     "380987811792",
     "380681424610",
-    "380680099951"
+    "380680099951",
+    "258860563350"
   ],
   "manualNumbers": [
     {
