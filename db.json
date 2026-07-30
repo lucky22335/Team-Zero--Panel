@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T19:10:12.000Z",
+          "number": "50933147854",
+          "service": "Remitly",
+          "message": "Remitly  votre transfert de la part de Lovelie Jean dun montant de HTG 3915600 disponible a Unitransfer Ref Remitly est R25155088815",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-30T19:03:26.000Z",
           "number": "258860197096",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "380685872296",
           "service": "WhatsApp",
           "message": "# Code WhatsApp 307-879nNe partagez pas ce coden4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:39:24.000Z",
-          "number": "380675285746",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 835-919nDont share this code with othersnrJbAXP1KV",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -792,7 +792,8 @@
     "380987811792",
     "380681424610",
     "380680099951",
-    "258860616064"
+    "258860616064",
+    "50933147854"
   ],
   "manualNumbers": [
     {
