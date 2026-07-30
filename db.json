@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T19:30:07.000Z",
+          "number": "258860672440",
+          "service": "WhatsApp",
+          "message": "# Kode WhatsApp 840-864\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6",
+          "country": "Mozambique",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-30T19:10:12.000Z",
           "number": "50933147854",
           "service": "Remitly",
@@ -243,14 +251,6 @@
           "number": "380688411180",
           "service": "WhatsApp",
           "message": "# Your WhatsApp code 936-962nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:37:28.000Z",
-          "number": "380685872296",
-          "service": "WhatsApp",
-          "message": "# Code WhatsApp 307-879nNe partagez pas ce coden4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -793,7 +793,8 @@
     "22661447654",
     "380987811792",
     "380681424610",
-    "380680099951"
+    "380680099951",
+    "258860672440"
   ],
   "manualNumbers": [
     {
