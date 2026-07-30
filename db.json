@@ -552,7 +552,8 @@
     "380675285438",
     "380969580809",
     "380974767197",
-    "380987854143"
+    "380987854143",
+    "380688868983"
   ],
   "manualNumbers": [
     {
@@ -15438,6 +15439,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-07-30T16:05:48.000Z",
+      "number": "380688868983",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business code 993-372nDont share this code with othersnrJbAXP1KV",
+      "country": "Ukraine",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -17267,14 +17276,6 @@
       "service": "Facebook",
       "message": "# 100879 is your Instagram code Dont share it SIYRxKrru1t",
       "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-27T09:30:45.000Z",
-      "number": "50932730361",
-      "service": "WhatsApp",
-      "message": "# كود واتساب للأعمال الخاص بك ‎411-139\nلا تشاركه مع أحد\nrJbAXP1KV",
-      "country": "Haiti",
       "source": "Api 5"
     }
   ]
