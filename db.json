@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T19:44:09.000Z",
+          "number": "258861230421",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business code 586-623\nDont share this code with others\nrJbAXP1KV",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-30T19:31:11.000Z",
           "number": "50932973934",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "380987851214",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 243-974nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:31:42.000Z",
-          "number": "380965238828",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 411-210nDont share this code with othersn4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -796,7 +796,8 @@
     "22661447654",
     "380987811792",
     "380681424610",
-    "380680099951"
+    "380680099951",
+    "258861230421"
   ],
   "manualNumbers": [
     {
