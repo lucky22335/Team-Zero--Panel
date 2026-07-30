@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T22:04:52.000Z",
+          "number": "258860516850",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp code 771-209\nDont share this code with others\n4sgLq1p5sV6",
+          "country": "Mozambique",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-30T21:51:03.000Z",
           "number": "258860563350",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "# Your WhatsApp Business code 389-075\nDont share this code with others\nrJbAXP1KV",
           "country": "Mozambique",
           "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T16:29:36.000Z",
-          "number": "380984728723",
-          "service": "WhatsApp",
-          "message": "# Size ait bir hesap WhatsApp yeni bir cihazda kaydediliyornnBu kodu kimseye vermeyinnWhatsApp kodunuz 568-764n4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "API 2"
         }
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
@@ -803,7 +803,8 @@
     "380987811792",
     "380681424610",
     "380680099951",
-    "258860563350"
+    "258860563350",
+    "258860516850"
   ],
   "manualNumbers": [
     {
