@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T20:37:56.000Z",
+          "number": "50932995255",
+          "service": "BytePlus",
+          "message": "La clave de acceso es 517348",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-30T20:37:31.000Z",
           "number": "258860094171",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "Dear Customer payment method 791353000781001505 -  purchased 40000 on 30072026 182600 at TOTALENERGIES BELGRAVIA",
           "country": "Zimbabwe",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-07-30T16:24:30.000Z",
-          "number": "380984728154",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 415-456nDont share this code with othersnrJbAXP1KV",
-          "country": "Ukraine",
-          "source": "Api 6"
         }
       ]
     }
@@ -802,7 +802,8 @@
     "380681424610",
     "380680099951",
     "258861111238",
-    "258866560388"
+    "258866560388",
+    "50932995255"
   ],
   "manualNumbers": [
     {
