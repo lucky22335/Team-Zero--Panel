@@ -15,6 +15,22 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-30T19:31:11.000Z",
+          "number": "50932973934",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 211-416\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
+          "timestamp": "2026-07-30T19:31:03.000Z",
+          "number": "258867369353",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business code 483-520\nDont share this code with others\nrJbAXP1KV",
+          "country": "Mozambique",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-30T19:30:07.000Z",
           "number": "258860672440",
           "service": "WhatsApp",
@@ -235,22 +251,6 @@
           "number": "380965238828",
           "service": "WhatsApp",
           "message": "# Your WhatsApp code 411-210nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:34:31.000Z",
-          "number": "380680095199",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 173-066nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Ukraine",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-30T01:36:36.000Z",
-          "number": "380688411180",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 936-962nDont share this code with othersn4sgLq1p5sV6",
           "country": "Ukraine",
           "source": "Api 6"
         }
@@ -794,7 +794,9 @@
     "380987811792",
     "380681424610",
     "380680099951",
-    "258860672440"
+    "258860672440",
+    "258867369353",
+    "50932973934"
   ],
   "manualNumbers": [
     {
