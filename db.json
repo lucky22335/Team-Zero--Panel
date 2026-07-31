@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T01:50:55.000Z",
+          "number": "50933210860",
+          "service": "WhatsApp",
+          "message": "# Votre compte WhatsApp Business sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp Business 827-500\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T01:36:37.000Z",
           "number": "50933155923",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "258860197096",
           "service": "WhatsApp",
           "message": "# Код WhatsApp 326-670\nНи с кем не делитесь кодом\n4sgLq1p5sV6",
-          "country": "Mozambique",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T19:01:18.000Z",
-          "number": "258860616064",
-          "service": "Facebook",
-          "message": "# 559775 é o código de Facebook H29QFsn4Sr",
           "country": "Mozambique",
           "source": "Api 5"
         }
@@ -571,7 +571,8 @@
     "50933194591",
     "50933204997",
     "50933190284",
-    "50933155923"
+    "50933155923",
+    "50933210860"
   ],
   "manualNumbers": [
     {
