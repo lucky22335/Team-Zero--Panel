@@ -830,7 +830,15 @@
           "username": "kashmiri1_1",
           "firstName": "KASHMIRI",
           "registeredAt": "2026-07-31T11:38:16.288Z",
-          "numbers": []
+          "numbers": [
+            {
+              "number": "263777053682",
+              "country": "Zimbabwe",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T11:38:20.383Z",
+              "messageId": 60
+            }
+          ]
         }
       ],
       "otpHistory": [
@@ -1782,7 +1790,8 @@
     "59165885818",
     "59179023951",
     "59165352835",
-    "93776079712"
+    "93776079712",
+    "263777053682"
   ],
   "manualNumbers": [
     {
@@ -79220,14 +79229,6 @@
     {
       "id": "num_1785474416611_xukeg",
       "number": "263787042394",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474416611_aa4yv",
-      "number": "263777053682",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
