@@ -793,6 +793,20 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T12:22:56.371Z",
               "messageId": 72
+            },
+            {
+              "number": "59170529538",
+              "country": "Bolivia",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T12:22:59.222Z",
+              "messageId": 72
+            },
+            {
+              "number": "59160828543",
+              "country": "Bolivia",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T12:23:10.645Z",
+              "messageId": 72
             }
           ]
         },
@@ -1891,7 +1905,9 @@
     "258866494067",
     "211981408183",
     "211981403156",
-    "59160591672"
+    "59160591672",
+    "59170529538",
+    "59160828543"
   ],
   "manualNumbers": [
     {
@@ -14527,24 +14543,8 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785474414379_xsi03",
-      "number": "59170529538",
-      "country": "Bolivia",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785474414379_8iqxg",
       "number": "59179076313",
-      "country": "Bolivia",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474414379_sb2t4",
-      "number": "59160828543",
       "country": "Bolivia",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
