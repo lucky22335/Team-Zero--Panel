@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T17:18:10.000Z",
+          "number": "50932052162",
+          "service": "Facebook",
+          "message": "# GWSSMYESZ is your Instagram code Dont share it SIYRxKrru1t",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T16:31:24.000Z",
           "number": "211981407407",
           "service": "IMO",
@@ -335,14 +343,6 @@
           "number": "584263727171",
           "service": "WhatsApp",
           "message": "Codigo de WhatsApp Business 557-441nNo compartas este codigo con nadie",
-          "country": "Venezuela",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T05:35:25.000Z",
-          "number": "584161945379",
-          "service": "WhatsApp",
-          "message": "Codigo de WhatsApp Business 243-184nNo compartas este codigo con nadie",
           "country": "Venezuela",
           "source": "Api 6"
         }
@@ -780,7 +780,8 @@
     "211981408261",
     "211981408233",
     "211981404444",
-    "211981407407"
+    "211981407407",
+    "50932052162"
   ],
   "manualNumbers": [
     {
