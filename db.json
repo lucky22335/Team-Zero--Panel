@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T00:27:30.000Z",
+          "number": "50932978388",
+          "service": "Facebook",
+          "message": "# 29082386 est votre code Facebook H29QFsn4Sr",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-30T23:34:13.000Z",
           "number": "50935508375",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "Your imo verification code is 7008nDO NOT share with anyone else to prevent account being compromised",
           "country": "Unknown",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-07-30T16:57:25.000Z",
-          "number": "258860535018",
-          "service": "WhatsApp",
-          "message": "Kode WhatsApp 821-956\nJangan bagikan kode ini dengan orang lain",
-          "country": "Mozambique",
-          "source": "Api 5"
         }
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
@@ -565,7 +565,8 @@
     "258860563350",
     "258860516850",
     "258866828549",
-    "50935508375"
+    "50935508375",
+    "50932978388"
   ],
   "manualNumbers": [
     {
