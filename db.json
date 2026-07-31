@@ -277,7 +277,15 @@
         "btn3Url": "https://t.me/xpobaidnumbers",
         "status": "active"
       },
-      "subscribers": [],
+      "subscribers": [
+        {
+          "chatId": 7788148832,
+          "username": "",
+          "firstName": "Obaidullah",
+          "registeredAt": "2026-07-31T02:32:05.947Z",
+          "numbers": []
+        }
+      ],
       "otpHistory": [
         {
           "timestamp": "2026-07-31T01:50:55.000Z",
