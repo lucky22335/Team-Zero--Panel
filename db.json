@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-28T20:53:04.000Z",
+          "number": "50932824119",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 845-880\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-28T20:55:57.000Z",
           "number": "50935141286",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "50932805237",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 900-136\nDont share this code with others\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-29T00:17:43.000Z",
-          "number": "50932805812",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 894-895\nrJbAXP1KV",
           "country": "Haiti",
           "source": "Api 5"
         }
@@ -273,6 +273,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-28T20:53:04.000Z",
+          "number": "50932824119",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 845-880\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-28T20:55:57.000Z",
           "number": "50935141286",
           "service": "WhatsApp",
@@ -501,14 +509,6 @@
           "number": "50932805237",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 900-136\nDont share this code with others\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-29T00:17:43.000Z",
-          "number": "50932805812",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 894-895\nrJbAXP1KV",
           "country": "Haiti",
           "source": "Api 5"
         }
@@ -602,11 +602,26 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T09:04:05.670Z",
               "messageId": 47
+            },
+            {
+              "number": "258833077536",
+              "country": "Mozambique",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T09:04:31.024Z",
+              "messageId": 47
             }
           ]
         }
       ],
       "otpHistory": [
+        {
+          "timestamp": "2026-07-28T20:55:57.000Z",
+          "number": "50935141286",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 233-676\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "Api 5"
+        },
         {
           "timestamp": "2026-07-28T20:58:01.000Z",
           "number": "50933333565",
@@ -836,14 +851,6 @@
           "number": "50932805812",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 894-895\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-29T00:27:58.000Z",
-          "number": "50932748218",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 747-669\nrJbAXP1KV",
           "country": "Haiti",
           "source": "Api 5"
         }
@@ -888,6 +895,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-07-28T20:55:57.000Z",
+          "number": "50935141286",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 233-676\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-07-28T20:58:01.000Z",
           "number": "50933333565",
           "service": "WhatsApp",
@@ -1116,14 +1131,6 @@
           "number": "50932805812",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 894-895\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-29T00:27:58.000Z",
-          "number": "50932748218",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 747-669\nrJbAXP1KV",
           "country": "Haiti",
           "source": "Api 5"
         }
@@ -1490,7 +1497,8 @@
     "59165618280",
     "59179410579",
     "59160327364",
-    "263788185710"
+    "263788185710",
+    "258833077536"
   ],
   "manualNumbers": [
     {
@@ -31312,14 +31320,6 @@
     {
       "id": "num_1785474414706_r85rq",
       "number": "258831566226",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474414706_errm8",
-      "number": "258833077536",
       "country": "Mozambique",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
@@ -90624,6 +90624,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-07-28T20:53:04.000Z",
+      "number": "50932824119",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 845-880\n4sgLq1p5sV6",
+      "country": "Haiti",
+      "source": "Api 5"
+    },
+    {
       "timestamp": "2026-07-28T20:55:57.000Z",
       "number": "50935141286",
       "service": "WhatsApp",
@@ -94612,14 +94620,6 @@
       "number": "50932846980",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 230-545\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T01:43:27.000Z",
-      "number": "50932777890",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 531-792\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
