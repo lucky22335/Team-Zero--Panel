@@ -611,6 +611,21 @@
               "registeredAt": "2026-07-31T02:33:33.653Z"
             }
           ]
+        },
+        {
+          "chatId": 8380316121,
+          "username": "MRNirob534",
+          "firstName": "➤⃘꯭⃝NIROB\" ~{BOOS}",
+          "registeredAt": "2026-07-31T02:42:35.749Z",
+          "numbers": [
+            {
+              "number": "211981407258",
+              "country": "Unknown",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T02:42:44.947Z",
+              "messageId": 25
+            }
+          ]
         }
       ],
       "otpHistory": [
@@ -1177,7 +1192,8 @@
     "93776077541",
     "93776079712",
     "263774021436",
-    "380962933926"
+    "380962933926",
+    "211981407258"
   ],
   "manualNumbers": [
     {
@@ -1255,14 +1271,6 @@
     {
       "id": "num_1785333898184_twzyq",
       "number": "211981402732",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_f0y04",
-      "number": "211981407258",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
