@@ -257,6 +257,20 @@
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
       "expiryDate": "2026-08-29T16:09:07.948Z"
+    },
+    {
+      "id": "user_1785464927249",
+      "username": "XP TEAM",
+      "email": "ahmad34@gmail.com",
+      "password": "123456789",
+      "botConfig": {
+        "token": "",
+        "groupId": "",
+        "ownerChatId": "",
+        "botLink": "",
+        "otpGroupUrl": ""
+      },
+      "subscribers": []
     }
   ],
   "claimedNumbers": [
