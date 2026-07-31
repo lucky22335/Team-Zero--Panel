@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T18:53:20.000Z",
+          "number": "263773284779",
+          "service": "TINDER",
+          "message": "#Your Tinder code is 671345ndwEzWOx6XSV",
+          "country": "Zimbabwe",
+          "source": "API 2"
+        },
+        {
           "timestamp": "2026-07-31T18:33:16.000Z",
           "number": "50932048318",
           "service": "Rednote",
@@ -336,14 +344,6 @@
           "service": "Paypal",
           "message": "# PayPal Your security code is 513689 Your code expires in 10 minutes Please dont reply 33p3o0TedB",
           "country": "Zimbabwe",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T04:36:01.000Z",
-          "number": "992985875066",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp code 821-550nDont share this code with othersn4sgLq1p5sV6",
-          "country": "Tajikistan",
           "source": "Api 6"
         }
       ],
@@ -783,7 +783,8 @@
     "211981407576",
     "50932914236",
     "50932048318",
-    "22671396860"
+    "22671396860",
+    "263773284779"
   ],
   "manualNumbers": [
     {
@@ -15486,14 +15487,6 @@
       "id": "num_1785414480253_0jhn3",
       "number": "380962486786",
       "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-30T12:28:00.147Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785414480253_nyuxx",
-      "number": "263773284779",
-      "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-30T12:28:00.147Z",
       "autoAdded": true
