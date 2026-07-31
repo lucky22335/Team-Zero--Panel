@@ -513,6 +513,20 @@
           "source": "Api 5"
         }
       ]
+    },
+    {
+      "id": "user_1785465005186",
+      "username": "@AkMoDsOtp_topbot",
+      "email": "afaquekhan839@gmail.com",
+      "password": "afaquekhan786",
+      "botConfig": {
+        "token": "",
+        "groupId": "",
+        "ownerChatId": "",
+        "botLink": "",
+        "otpGroupUrl": ""
+      },
+      "subscribers": []
     }
   ],
   "claimedNumbers": [
