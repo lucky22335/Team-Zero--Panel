@@ -542,10 +542,10 @@
         "otpGroupUrl": "https://t.me/Ghostotps3",
         "btn1Text": "PANEL",
         "btn1Url": "https://t.me/AkMoDsOtp_topbot",
-        "btn2Text": "See Otp",
-        "btn2Url": "https://t.me/Ghostotps3",
-        "btn3Text": "Main channel",
-        "btn3Url": "https://t.me/GhostNumbers",
+        "btn2Text": "",
+        "btn2Url": "",
+        "btn3Text": "",
+        "btn3Url": "",
         "status": "active"
       },
       "subscribers": [
