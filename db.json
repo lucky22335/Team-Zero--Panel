@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T01:34:13.000Z",
+          "number": "50933190284",
+          "service": "WhatsApp",
+          "message": "# Votre compte WhatsApp Business sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp Business 871-457\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T01:32:50.000Z",
           "number": "50933204997",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "# Your WhatsApp Business code 203-117\nDont share this code with others\nrJbAXP1KV",
           "country": "Mozambique",
           "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T18:23:06.000Z",
-          "number": "263773284779",
-          "service": "VERCEL",
-          "message": "Your Vercel verification code is 3692",
-          "country": "Zimbabwe",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
@@ -570,7 +570,8 @@
     "50932938181",
     "50933219431",
     "50933194591",
-    "50933204997"
+    "50933204997",
+    "50933190284"
   ],
   "manualNumbers": [
     {
