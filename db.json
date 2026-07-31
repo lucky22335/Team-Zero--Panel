@@ -589,6 +589,11 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T02:32:44.656Z",
               "messageId": 9
+            },
+            {
+              "number": "+923149443559",
+              "country": "Pakistan",
+              "registeredAt": "2026-07-31T02:33:33.653Z"
             }
           ]
         }
