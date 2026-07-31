@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T02:16:51.000Z",
+          "number": "50933218879",
+          "service": "WhatsApp",
+          "message": "# Votre compte WhatsApp sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp  971-466\n4sgLq1p5sV6",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T01:58:25.000Z",
           "number": "50933204997",
           "service": "WhatsApp",
@@ -245,14 +253,6 @@
           "message": "# Kode WhatsApp 840-864\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6",
           "country": "Mozambique",
           "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T19:10:12.000Z",
-          "number": "50933147854",
-          "service": "Remitly",
-          "message": "Remitly  votre transfert de la part de Lovelie Jean dun montant de HTG 3915600 disponible a Unitransfer Ref Remitly est R25155088815",
-          "country": "Haiti",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-30T16:09:07.948Z",
@@ -572,7 +572,8 @@
     "50933204997",
     "50933190284",
     "50933155923",
-    "50933210860"
+    "50933210860",
+    "50933218879"
   ],
   "manualNumbers": [
     {
