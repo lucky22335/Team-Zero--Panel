@@ -520,11 +520,18 @@
       "email": "afaquekhan839@gmail.com",
       "password": "afaquekhan786",
       "botConfig": {
-        "token": "",
-        "groupId": "",
-        "ownerChatId": "",
-        "botLink": "",
-        "otpGroupUrl": ""
+        "token": "8900849615:AAHE_WyQzmd72yPIKPOgVgjJG_2oVKjhAhk",
+        "groupId": "-1003727533247",
+        "ownerChatId": "8595757814",
+        "botLink": "https://t.me/GhostNumbers",
+        "otpGroupUrl": "https://t.me/alltechgroup1",
+        "btn1Text": "Bot panel",
+        "btn1Url": "@AkMoDsOtp_topbothttps://t.me/alltechgroup1",
+        "btn2Text": "Otps 2",
+        "btn2Url": "https://t.me/alltechgroup1",
+        "btn3Text": "Main channel 1",
+        "btn3Url": "https://t.me/alltechgroup1",
+        "status": "active"
       },
       "subscribers": [],
       "otpHistory": [
