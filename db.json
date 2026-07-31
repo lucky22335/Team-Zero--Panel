@@ -783,7 +783,11 @@
     "211981407576",
     "263773284779",
     "584267459620",
-    "22671396860"
+    "22671396860",
+    "211981408265",
+    "211981408111",
+    "211981405029",
+    "211981404772"
   ],
   "manualNumbers": [
     {
@@ -34283,14 +34287,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515482252_u18al",
-      "number": "211981408111",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515482252_hfoqa",
       "number": "211981403535",
       "country": "Unknown",
@@ -34317,14 +34313,6 @@
     {
       "id": "num_1785515482252_ges2z",
       "number": "211981402779",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482252_p5ovb",
-      "number": "211981404772",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -35259,14 +35247,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515482275_55m8l",
-      "number": "211981405029",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515482275_tu5nu",
       "number": "211981407421",
       "country": "Unknown",
@@ -35333,14 +35313,6 @@
     {
       "id": "num_1785515482278_xcqw6",
       "number": "211981400083",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482279_2ddyi",
-      "number": "211981408265",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
