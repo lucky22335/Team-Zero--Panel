@@ -554,7 +554,15 @@
           "username": "darkkingx46",
           "firstName": "DARK #46",
           "registeredAt": "2026-07-31T02:31:20.620Z",
-          "numbers": []
+          "numbers": [
+            {
+              "number": "263774021436",
+              "country": "Zimbabwe",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T02:41:32.235Z",
+              "messageId": 21
+            }
+          ]
         },
         {
           "chatId": -1003727533247,
@@ -1160,7 +1168,8 @@
     "50932967789",
     "93776075732",
     "93776077541",
-    "93776079712"
+    "93776079712",
+    "263774021436"
   ],
   "manualNumbers": [
     {
@@ -7694,14 +7703,6 @@
     {
       "id": "num_1785333898200_5ma0i",
       "number": "263786278486",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898200_vb0g5",
-      "number": "263774021436",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
