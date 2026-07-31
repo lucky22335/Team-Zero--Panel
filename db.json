@@ -264,11 +264,18 @@
       "email": "ahmad34@gmail.com",
       "password": "123456789",
       "botConfig": {
-        "token": "",
-        "groupId": "",
-        "ownerChatId": "",
-        "botLink": "",
-        "otpGroupUrl": ""
+        "token": "8800506376:AAERNwokKHx26f_Z0JfkQrpuhY9noSa6v_s",
+        "groupId": "-1003926180134",
+        "ownerChatId": "7788148832",
+        "botLink": "@XPOBAIDSMS_bot",
+        "otpGroupUrl": "https://t.me/Xpobaidotpsworldwide",
+        "btn1Text": "🤖 NUMBER BOT",
+        "btn1Url": "@XPOBAIDSMS_bot",
+        "btn2Text": "⚡SEE OTP",
+        "btn2Url": "https://t.me/Xpobaidotpsworldwide",
+        "btn3Text": "📢MAIM CHANNEL",
+        "btn3Url": "https://t.me/xpobaidnumbers",
+        "status": "active"
       },
       "subscribers": [],
       "otpHistory": [
