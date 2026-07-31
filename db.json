@@ -560,6 +560,20 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T09:00:57.483Z",
               "messageId": 47
+            },
+            {
+              "number": "992985710679",
+              "country": "Tajikistan",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T09:01:04.150Z",
+              "messageId": 47
+            },
+            {
+              "number": "93776077541",
+              "country": "Afghanistan",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T09:01:17.807Z",
+              "messageId": 47
             }
           ]
         }
@@ -1442,7 +1456,9 @@
     "258834099427",
     "584263126137",
     "258860677892",
-    "992715023376"
+    "992715023376",
+    "992985710679",
+    "93776077541"
   ],
   "manualNumbers": [
     {
@@ -1456,14 +1472,6 @@
     {
       "id": "num_1785333898184_l7bkt",
       "number": "93776079712",
-      "country": "Afghanistan",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_vbn4z",
-      "number": "93776077541",
       "country": "Afghanistan",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
@@ -1640,14 +1648,6 @@
     {
       "id": "num_1785333898184_8lx36",
       "number": "992718530985",
-      "country": "Tajikistan",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_72nfg",
-      "number": "992985710679",
       "country": "Tajikistan",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
