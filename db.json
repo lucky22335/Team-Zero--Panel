@@ -828,6 +828,27 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T14:26:06.340Z",
               "messageId": 85
+            },
+            {
+              "number": "22652883844",
+              "country": "Burkina Faso",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T14:26:14.715Z",
+              "messageId": 85
+            },
+            {
+              "number": "22671603695",
+              "country": "Burkina Faso",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T14:26:14.855Z",
+              "messageId": 85
+            },
+            {
+              "number": "22673587892",
+              "country": "Burkina Faso",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T14:26:16.505Z",
+              "messageId": 85
             }
           ]
         },
@@ -1961,7 +1982,10 @@
     "211981404728",
     "211981402399",
     "211981409025",
-    "22651798824"
+    "22651798824",
+    "22652883844",
+    "22671603695",
+    "22673587892"
   ],
   "manualNumbers": [
     {
@@ -15389,14 +15413,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785474414390_1mkkn",
-      "number": "22652883844",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785474414390_j736h",
       "number": "22663448018",
       "country": "Burkina Faso",
@@ -18989,14 +19005,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785474414437_g8u5k",
-      "number": "22673587892",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785474414437_9znsf",
       "number": "22662074671",
       "country": "Burkina Faso",
@@ -21351,14 +21359,6 @@
     {
       "id": "num_1785474414476_59eoy",
       "number": "22651547741",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474414476_17igz",
-      "number": "22671603695",
       "country": "Burkina Faso",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
