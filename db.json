@@ -15,6 +15,14 @@
       "subscribers": [],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T02:22:33.000Z",
+          "number": "50932967789",
+          "service": "WhatsApp",
+          "message": "# Votre compte WhatsApp Business sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp Business 115-973\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T02:16:51.000Z",
           "number": "50933218879",
           "service": "WhatsApp",
@@ -243,14 +251,6 @@
           "number": "258867369353",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 483-520\nDont share this code with others\nrJbAXP1KV",
-          "country": "Mozambique",
-          "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-07-30T19:30:07.000Z",
-          "number": "258860672440",
-          "service": "WhatsApp",
-          "message": "# Kode WhatsApp 840-864\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6",
           "country": "Mozambique",
           "source": "Api 5"
         }
@@ -573,7 +573,8 @@
     "50933190284",
     "50933155923",
     "50933210860",
-    "50933218879"
+    "50933218879",
+    "50932967789"
   ],
   "manualNumbers": [
     {
