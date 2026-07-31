@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T20:46:38.000Z",
+          "number": "50932907752",
+          "service": "WhatsApp",
+          "message": "Code WhatsApp  689-514\nNe partagez pas ce code",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T20:16:14.000Z",
           "number": "211981402399",
           "service": "IMO",
@@ -335,14 +343,6 @@
           "number": "258861104665",
           "service": "ServiceSMS",
           "message": "5126",
-          "country": "Mozambique",
-          "source": "API 3"
-        },
-        {
-          "timestamp": "2026-07-31T16:50:21.000Z",
-          "number": "258861104665",
-          "service": "ServiceSMS",
-          "message": "8897",
           "country": "Mozambique",
           "source": "API 3"
         }
@@ -790,7 +790,8 @@
     "211981402100",
     "211981407951",
     "211981402399",
-    "22671396860"
+    "22671396860",
+    "50932907752"
   ],
   "manualNumbers": [
     {
