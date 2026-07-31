@@ -568,7 +568,15 @@
           "username": "AkMoDsOwner",
           "firstName": "AkMoDs",
           "registeredAt": "2026-07-31T02:32:24.000Z",
-          "numbers": []
+          "numbers": [
+            {
+              "number": "93776075732",
+              "country": "Afghanistan",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T02:32:37.841Z",
+              "messageId": 9
+            }
+          ]
         }
       ],
       "otpHistory": [
@@ -1130,17 +1138,10 @@
     "50933155923",
     "50933210860",
     "50933218879",
-    "50932967789"
+    "50932967789",
+    "93776075732"
   ],
   "manualNumbers": [
-    {
-      "id": "num_1785333898184_66qay",
-      "number": "93776075732",
-      "country": "Afghanistan",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
     {
       "id": "num_1785333898184_l7bkt",
       "number": "93776079712",
