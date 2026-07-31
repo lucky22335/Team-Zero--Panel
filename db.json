@@ -1921,7 +1921,11 @@
     "584163586839",
     "584165271012",
     "584264318230",
-    "263779880986"
+    "263779880986",
+    "258860676360",
+    "258834503391",
+    "22661919932",
+    "584167275137"
   ],
   "manualNumbers": [
     {
@@ -18765,14 +18769,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785474414435_sfj1j",
-      "number": "22661919932",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785474414435_lqp91",
       "number": "22603894612",
       "country": "Burkina Faso",
@@ -31311,14 +31307,6 @@
     {
       "id": "num_1785474414700_0ttp4",
       "number": "258835339940",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474414700_k44gz",
-      "number": "258834503391",
       "country": "Mozambique",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
@@ -47151,14 +47139,6 @@
     {
       "id": "num_1785474415178_62tw7",
       "number": "584269508627",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T05:06:54.294Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785474415178_1wmov",
-      "number": "584167275137",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
@@ -90371,14 +90351,6 @@
       "server": "Api 6",
       "addedAt": "2026-07-31T05:06:54.294Z",
       "autoAdded": true
-    },
-    {
-      "id": "num_1785503411879_yu2q3",
-      "number": "258860676360",
-      "country": "Mozambique",
-      "server": "Api 5",
-      "addedAt": "2026-07-31T13:10:08.456Z",
-      "autoAdded": true
     }
   ],
   "manualSms": [
@@ -91036,6 +91008,30 @@
       "service": "Binance",
       "message": "ÄBNÑ Your Binance verification code 896708 Do not share this code with anyone",
       "country": "Zimbabwe",
+      "source": "Api 6"
+    },
+    {
+      "timestamp": "2026-07-31T12:52:49.000Z",
+      "number": "584167275137",
+      "service": "WhatsApp",
+      "message": "Codigo de WhatsApp Business 695-740nNo compartas este codigo con nadie",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
+      "timestamp": "2026-07-31T12:55:08.000Z",
+      "number": "22661919932",
+      "service": "WhatsApp",
+      "message": "# Kode WhatsApp Business 687-256nJangan bagikan kode ini dengan orang lainnrJbAXP1KV",
+      "country": "Burkina Faso",
+      "source": "Api 6"
+    },
+    {
+      "timestamp": "2026-07-31T13:05:40.000Z",
+      "number": "258834503391",
+      "service": "WhatsApp",
+      "message": "# Kode WhatsApp 959-794nJangan bagikan kode ini dengan orang lainn4sgLq1p5sV6",
+      "country": "Mozambique",
       "source": "Api 6"
     },
     {
@@ -94355,30 +94351,6 @@
       "number": "50932748218",
       "service": "WhatsApp",
       "message": "# Your WhatsApp code 235-494\nDont share this code with others\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T20:49:36.000Z",
-      "number": "50932759265",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 441-214\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T20:49:50.000Z",
-      "number": "50932807432",
-      "service": "WhatsApp",
-      "message": "# Votre compte WhatsApp sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp  859-142\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T20:49:57.000Z",
-      "number": "50932807432",
-      "service": "WhatsApp",
-      "message": "# Votre compte WhatsApp sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp  508-984\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
