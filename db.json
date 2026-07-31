@@ -561,6 +561,13 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T02:41:32.235Z",
               "messageId": 21
+            },
+            {
+              "number": "380962933926",
+              "country": "Ukraine",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T02:41:44.233Z",
+              "messageId": 21
             }
           ]
         },
@@ -1169,7 +1176,8 @@
     "93776075732",
     "93776077541",
     "93776079712",
-    "263774021436"
+    "263774021436",
+    "380962933926"
   ],
   "manualNumbers": [
     {
@@ -12199,14 +12207,6 @@
     {
       "id": "num_1785414566485_u5lne",
       "number": "380987851655",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-30T12:29:26.401Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785414566485_93bca",
-      "number": "380962933926",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-30T12:29:26.401Z",
