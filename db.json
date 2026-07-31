@@ -686,6 +686,13 @@
               "service": "Api 6",
               "registeredAt": "2026-07-31T09:08:09.680Z",
               "messageId": 49
+            },
+            {
+              "number": "263775390301",
+              "country": "Zimbabwe",
+              "service": "Api 6",
+              "registeredAt": "2026-07-31T10:52:21.692Z",
+              "messageId": 49
             }
           ]
         }
@@ -1615,7 +1622,8 @@
     "584268786331",
     "258867535391",
     "258860722193",
-    "258867590546"
+    "258867590546",
+    "263775390301"
   ],
   "manualNumbers": [
     {
@@ -6141,14 +6149,6 @@
     {
       "id": "num_1785333898192_9hyti",
       "number": "263776396242",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898192_1dsbl",
-      "number": "263775390301",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
