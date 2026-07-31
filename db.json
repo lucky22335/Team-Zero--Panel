@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-07-31T17:26:59.000Z",
+          "number": "258866355859",
+          "service": "Yango",
+          "message": "Your confirmation code 339-606",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-07-31T17:24:12.000Z",
           "number": "584164875694",
           "service": "IMO",
@@ -336,14 +344,6 @@
           "service": "WhatsApp",
           "message": "Codigo de WhatsApp Business 828-999nNo compartas este codigo con nadie",
           "country": "Venezuela",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T05:24:34.000Z",
-          "number": "258834193979",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 575-188nDont share this code with othersnrJbAXP1KV",
-          "country": "Mozambique",
           "source": "Api 6"
         }
       ],
@@ -781,7 +781,8 @@
     "211981408233",
     "211981404444",
     "211981407407",
-    "50932052162"
+    "50932052162",
+    "258866355859"
   ],
   "manualNumbers": [
     {
