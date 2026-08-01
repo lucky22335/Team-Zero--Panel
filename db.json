@@ -107,6 +107,22 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:28:29.000Z",
+          "number": "584264602060",
+          "service": "IMO",
+          "message": "8458",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
+          "timestamp": "2026-08-01T18:27:50.000Z",
+          "number": "584161981241",
+          "service": "IMO",
+          "message": "3631",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T18:27:34.000Z",
           "number": "584261388223",
           "service": "IMO",
@@ -329,22 +345,6 @@
           "message": "# Your imo verification code is 3035nDO NOT share with anyone else to prevent account being compromisednLGIS0nvV16S",
           "country": "Unknown",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T17:49:49.000Z",
-          "number": "211981408084",
-          "service": "IMO",
-          "message": "# imo verification code 8372nNever share this code with anyonenLGIS0nvV16S",
-          "country": "Unknown",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T17:41:04.000Z",
-          "number": "50932095665",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 948-078\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -403,7 +403,9 @@
     "50932057943",
     "50932071641",
     "50932932160",
-    "584261388223"
+    "584261388223",
+    "584161981241",
+    "584264602060"
   ],
   "manualNumbers": [
     {
@@ -39799,14 +39801,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785603882439_3ghym",
-      "number": "584161981241",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T17:04:41.904Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785603882440_piibw",
       "number": "584166226850",
       "country": "Venezuela",
@@ -41777,14 +41771,6 @@
     {
       "id": "num_1785603882492_r781a",
       "number": "584268858843",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T17:04:41.904Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785603882492_28502",
-      "number": "584264602060",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-08-01T17:04:41.904Z",
@@ -96433,6 +96419,22 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:28:29.000Z",
+      "number": "584264602060",
+      "service": "IMO",
+      "message": "8458",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
+      "timestamp": "2026-08-01T18:27:50.000Z",
+      "number": "584161981241",
+      "service": "IMO",
+      "message": "3631",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-08-01T18:27:34.000Z",
       "number": "584261388223",
       "service": "IMO",
@@ -100413,22 +100415,6 @@
       "number": "258860171805",
       "service": "WhatsApp",
       "message": "# Kode WhatsApp Business 638-251\nJangan bagikan kode ini dengan orang lain\nrJbAXP1KV",
-      "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T16:53:26.000Z",
-      "number": "258860615141",
-      "service": "WhatsApp",
-      "message": "# Code WhatsApp  580-933\nNe partagez pas ce code\n4sgLq1p5sV6",
-      "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T16:53:41.000Z",
-      "number": "258860290517",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp code 629-875\nDont share this code with others\n4sgLq1p5sV6",
       "country": "Mozambique",
       "source": "Api 5"
     }
