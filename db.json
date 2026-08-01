@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:59:03.000Z",
+          "number": "50932118941",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 882-149\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T18:58:19.000Z",
           "number": "50932076163",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "PayPal رمز استرداد كلمة مرورك هو 881788 لا تشارك الرمز الخاص بك",
           "country": "Algeria",
           "source": "Api 5"
-        },
-        {
-          "timestamp": "2026-08-01T18:34:24.000Z",
-          "number": "50932104920",
-          "service": "WhatsApp",
-          "message": "# Code WhatsApp Business  721-124\nNe partagez pas ce code\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -430,7 +430,8 @@
     "584269893928",
     "584164373864",
     "584163596485",
-    "50932076163"
+    "50932076163",
+    "50932118941"
   ],
   "manualNumbers": [
     {
@@ -96276,6 +96277,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:59:03.000Z",
+      "number": "50932118941",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 882-149\nrJbAXP1KV",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T18:58:19.000Z",
       "number": "50932076163",
       "service": "WhatsApp",
@@ -100265,14 +100274,6 @@
       "service": "WhatsApp",
       "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 474-920\n4sgLq1p5sV6",
       "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-25T17:24:16.000Z",
-      "number": "258860185119",
-      "service": "Facebook",
-      "message": "# 509831 is your Facebook code H29QFsn4Sr",
-      "country": "Mozambique",
       "source": "Api 5"
     }
   ]
