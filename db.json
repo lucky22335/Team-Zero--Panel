@@ -405,11 +405,18 @@
       "email": "arhamxmiya444@gmail.com",
       "password": "008899",
       "botConfig": {
-        "token": "",
-        "groupId": "",
-        "ownerChatId": "",
-        "botLink": "",
-        "otpGroupUrl": ""
+        "token": "8988931452:AAEUVjbaxgjZzRFuQwXyglN5zlq3aHQToN4",
+        "groupId": "-1004458812729",
+        "ownerChatId": "8376613911",
+        "botLink": "https://t.me/ARHAM_OTP_BOT",
+        "otpGroupUrl": "https://t.me/+DU-Pya3ZVrw5ODBk",
+        "btn1Text": "Bot panel",
+        "btn1Url": "https://t.me/+x5-HKpXwZP81YzBk",
+        "btn2Text": "https://t.me/+x5-HKpXwZP81YzBk",
+        "btn2Url": "",
+        "btn3Text": "https://t.me/+x5-HKpXwZP81YzBk",
+        "btn3Url": "https://t.me/+x5-HKpXwZP81YzBk",
+        "status": "active"
       },
       "subscribers": [
         {
