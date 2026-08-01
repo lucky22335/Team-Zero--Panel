@@ -928,7 +928,16 @@
     "584165284300",
     "211981401486",
     "22670740569",
-    "584167601781"
+    "584167601781",
+    "380688862237",
+    "992985875902",
+    "263786736251",
+    "263770843930",
+    "584267621520",
+    "211981408352",
+    "263789393421",
+    "584162299690",
+    "211981405960"
   ],
   "manualNumbers": [
     {
@@ -33788,14 +33797,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515482236_istft",
-      "number": "211981408352",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515482236_zkc64",
       "number": "211981400262",
       "country": "Unknown",
@@ -35078,14 +35079,6 @@
     {
       "id": "num_1785515482270_go0wf",
       "number": "211981400683",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482270_vxred",
-      "number": "211981405960",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -37734,14 +37727,6 @@
     {
       "id": "num_1785515482350_uctfs",
       "number": "992718532189",
-      "country": "Tajikistan",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482350_f986o",
-      "number": "992985875902",
       "country": "Tajikistan",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -41966,14 +41951,6 @@
     {
       "id": "num_1785515482462_ne69g",
       "number": "380988077763",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482463_frwp3",
-      "number": "380688862237",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -61500,14 +61477,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515483234_w17lt",
-      "number": "584162299690",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515483235_f2eql",
       "number": "584167131300",
       "country": "Venezuela",
@@ -65318,14 +65287,6 @@
     {
       "id": "num_1785515483420_ylukk",
       "number": "584169078141",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515483420_4eg9m",
-      "number": "584267621520",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -73238,14 +73199,6 @@
     {
       "id": "num_1785515483831_vq12w",
       "number": "263780428250",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515483832_n5cgc",
-      "number": "263770843930",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -111308,14 +111261,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785559955413_hsg2l",
-      "number": "263786736251",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785559955414_6d2qb",
       "number": "263774027562",
       "country": "Zimbabwe",
@@ -115550,14 +115495,6 @@
     {
       "id": "num_1785559956307_d3g6n",
       "number": "263784941629",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785559956308_5u8la",
-      "number": "263789393421",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-08-01T04:52:27.062Z",
