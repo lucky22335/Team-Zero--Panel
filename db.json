@@ -442,6 +442,11 @@
               "number": "22671396841",
               "country": "Burkina Faso",
               "registeredAt": "2026-08-01T09:03:14.110Z"
+            },
+            {
+              "number": "380980377194",
+              "country": "Ukraine",
+              "registeredAt": "2026-08-01T15:56:54.365Z"
             }
           ]
         }
@@ -970,7 +975,8 @@
     "50932094127",
     "258860809093",
     "50932125460",
-    "50932042912"
+    "50932042912",
+    "380980377194"
   ],
   "manualNumbers": [
     {
@@ -42664,14 +42670,6 @@
     {
       "id": "num_1785515482497_is7tx",
       "number": "380672867902",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482497_z50s3",
-      "number": "380980377194",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
