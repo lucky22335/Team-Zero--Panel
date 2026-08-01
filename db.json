@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:34:30.000Z",
+          "number": "213540085168",
+          "service": "PAYPAL",
+          "message": "PayPal رمز استرداد كلمة مرورك هو 881788 لا تشارك الرمز الخاص بك",
+          "country": "Algeria",
+          "source": "Api 5"
+        },
+        {
           "timestamp": "2026-08-01T18:34:24.000Z",
           "number": "50932104920",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 312-920\nrJbAXP1KV",
           "country": "Haiti",
           "source": "API 3"
-        },
-        {
-          "timestamp": "2026-08-01T18:06:16.000Z",
-          "number": "50932069529",
-          "service": "WhatsApp",
-          "message": "Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 840-353",
-          "country": "Haiti",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -414,7 +414,8 @@
     "584264555965",
     "584164764767",
     "50932938181",
-    "584168760177"
+    "584168760177",
+    "213540085168"
   ],
   "manualNumbers": [
     {
@@ -96380,6 +96381,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:34:30.000Z",
+      "number": "213540085168",
+      "service": "PAYPAL",
+      "message": "PayPal رمز استرداد كلمة مرورك هو 881788 لا تشارك الرمز الخاص بك",
+      "country": "Algeria",
+      "source": "Api 5"
+    },
+    {
       "timestamp": "2026-08-01T18:34:24.000Z",
       "number": "50932104920",
       "service": "WhatsApp",
@@ -100368,14 +100377,6 @@
       "number": "258860236847",
       "service": "WhatsApp",
       "message": "# Your WhatsApp code 874-488\nDont share this code with others\n4sgLq1p5sV6",
-      "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T16:04:50.000Z",
-      "number": "258861076873",
-      "service": "WhatsApp",
-      "message": "Your WhatsApp code 593-038\nDont share this code with others",
       "country": "Mozambique",
       "source": "Api 5"
     }
