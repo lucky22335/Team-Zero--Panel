@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:04:16.000Z",
+          "number": "50932118883",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 158-838\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T18:04:09.000Z",
           "number": "50932100479",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "Construa Ocorreu um Credito de 1000000 a 010826 1238 ref ao doc num 10577 emitido na loja BEIRA-LO Mais info 823103819",
           "country": "Mozambique",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T10:44:31.000Z",
-          "number": "263777169034",
-          "service": "Paypal",
-          "message": "# PayPal Your security code is 236305 Your code expires in 10 minutes Please dont reply 33p3o0TedB",
-          "country": "Zimbabwe",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -397,7 +397,8 @@
     "50932127394",
     "50932104920",
     "211981401807",
-    "50932100479"
+    "50932100479",
+    "50932118883"
   ],
   "manualNumbers": [
     {
@@ -96435,6 +96436,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:04:16.000Z",
+      "number": "50932118883",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 158-838\nrJbAXP1KV",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T18:04:09.000Z",
       "number": "50932100479",
       "service": "WhatsApp",
@@ -100423,14 +100432,6 @@
       "number": "258860422782",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business code 534-274\nDont share this code with others\nrJbAXP1KV",
-      "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T17:22:55.000Z",
-      "number": "258860229127",
-      "service": "WhatsApp",
-      "message": "Kode WhatsApp Business 826-784\nJangan bagikan kode ini dengan orang lain",
       "country": "Mozambique",
       "source": "Api 5"
     }
