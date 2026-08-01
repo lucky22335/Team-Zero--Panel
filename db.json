@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:47:45.000Z",
+          "number": "584161267902",
+          "service": "Imo",
+          "message": "# Your imo verification code is 6569nDO NOT share with anyone else to prevent account being compromisednLGIS0nvV16S",
+          "country": "Venezuela",
+          "source": "API 2"
+        },
+        {
           "timestamp": "2026-08-01T18:45:43.000Z",
           "number": "584169253339",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "3631",
           "country": "Venezuela",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T18:27:34.000Z",
-          "number": "584261388223",
-          "service": "IMO",
-          "message": "# imo verification code 9889nNever share this code with anyonenLGIS0nvV16S",
-          "country": "Venezuela",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -421,7 +421,8 @@
     "50932047090",
     "584162749461",
     "50932057462",
-    "584169253339"
+    "584169253339",
+    "584161267902"
   ],
   "manualNumbers": [
     {
@@ -47307,14 +47308,6 @@
     {
       "id": "num_1785603882655_8d8zh",
       "number": "584269063690",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T17:04:41.904Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785603882656_30f4b",
-      "number": "584161267902",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-08-01T17:04:41.904Z",
@@ -96331,6 +96324,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:47:45.000Z",
+      "number": "584161267902",
+      "service": "Imo",
+      "message": "# Your imo verification code is 6569nDO NOT share with anyone else to prevent account being compromisednLGIS0nvV16S",
+      "country": "Venezuela",
+      "source": "API 2"
+    },
+    {
       "timestamp": "2026-08-01T18:45:43.000Z",
       "number": "584169253339",
       "service": "IMO",
@@ -100320,14 +100321,6 @@
       "service": "WhatsApp",
       "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 661-924\n4sgLq1p5sV6",
       "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T06:13:32.000Z",
-      "number": "258860243244",
-      "service": "Facebook",
-      "message": "# 229585 é o código de Facebook H29QFsn4Sr",
-      "country": "Mozambique",
       "source": "Api 5"
     }
   ]
