@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T03:15:30.000Z",
+          "number": "258860559933",
+          "service": "WhatsApp",
+          "message": "Your WhatsApp code 759-587\nDont share this code with others",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T02:49:25.000Z",
           "number": "211981405897",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "# GWSSMYESZ is your Instagram code Dont share it SIYRxKrru1t",
           "country": "Haiti",
           "source": "API 3"
-        },
-        {
-          "timestamp": "2026-07-31T16:31:24.000Z",
-          "number": "211981407407",
-          "service": "IMO",
-          "message": "# imo verification code 0697nNever share this code with anyonenW5EUe21Qadh",
-          "country": "Unknown",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
