@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T06:49:21.000Z",
+          "number": "263786955314",
+          "service": "Paypal",
+          "message": "PayPal Your security code is 304470 Your code expires in 10 minutes Please dont reply ¡wwwpaypalcom #304470",
+          "country": "Zimbabwe",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T06:49:16.000Z",
           "number": "211981401036",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "# Your imo verification code is 4675nDO NOT share with anyone else to prevent account being compromisednyQoy3qZldR",
           "country": "Unknown",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T05:57:53.000Z",
-          "number": "211981407195",
-          "service": "IMO",
-          "message": "# Your imo verification code is 8868nDO NOT share with anyone else to prevent account being compromisednyQoy3qZldR",
-          "country": "Unknown",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -859,7 +859,8 @@
     "211981406262",
     "211981409332",
     "211981404678",
-    "211981401036"
+    "211981401036",
+    "263786955314"
   ],
   "manualNumbers": [
     {
@@ -120279,14 +120280,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785559957179_oulhw",
-      "number": "263786955314",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785559957180_bmkmv",
       "number": "263783457225",
       "country": "Zimbabwe",
@@ -124561,6 +124554,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T06:49:21.000Z",
+      "number": "263786955314",
+      "service": "Paypal",
+      "message": "PayPal Your security code is 304470 Your code expires in 10 minutes Please dont reply ¡wwwpaypalcom #304470",
+      "country": "Zimbabwe",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -127997,14 +127998,6 @@
       "number": "50932758363",
       "service": "WhatsApp",
       "message": "# Votre compte WhatsApp Business sera enregistré sur un nouvel appareil\n\nNe donnez ce code à personne\nVotre code WhatsApp Business 170-198\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T21:30:56.000Z",
-      "number": "50932782977",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 351-319\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
