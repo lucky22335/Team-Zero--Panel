@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T07:18:14.000Z",
+          "number": "584268633081",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp code 490-719nDont share this code with othersn4sgLq1p5sV6",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T07:16:15.000Z",
           "number": "211981406806",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "# imo verification code 5926nNever share this code with anyonenyQoy3qZldR",
           "country": "Unknown",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T06:35:02.000Z",
-          "number": "211981400015",
-          "service": "Imo",
-          "message": "# imo verification code 8540nNever share this code with anyonenyQoy3qZldR",
-          "country": "Unknown",
-          "source": "API 2"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -876,7 +876,8 @@
     "211981401471",
     "211981402930",
     "211981409299",
-    "211981406806"
+    "211981406806",
+    "584268633081"
   ],
   "manualNumbers": [
     {
@@ -45994,14 +45995,6 @@
     {
       "id": "num_1785515482591_g88qp",
       "number": "584264492102",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482591_3y25t",
-      "number": "584268633081",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -124578,6 +124571,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T07:18:14.000Z",
+      "number": "584268633081",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp code 490-719nDont share this code with othersn4sgLq1p5sV6",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -127870,14 +127871,6 @@
       "number": "50933283524",
       "service": "WhatsApp",
       "message": "# Code WhatsApp  969-516\nNe partagez pas ce code\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T20:42:08.000Z",
-      "number": "50933283524",
-      "service": "WhatsApp",
-      "message": "# Code WhatsApp  644-358\nNe partagez pas ce code\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
