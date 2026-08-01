@@ -388,6 +388,11 @@
               "number": "22663897275",
               "country": "Burkina Faso",
               "registeredAt": "2026-08-01T09:02:04.352Z"
+            },
+            {
+              "number": "22671396841",
+              "country": "Burkina Faso",
+              "registeredAt": "2026-08-01T09:03:14.110Z"
             }
           ]
         }
@@ -1173,7 +1178,8 @@
     "211981408481",
     "211981400712",
     "22673602412",
-    "22663897275"
+    "22663897275",
+    "22671396841"
   ],
   "manualNumbers": [
     {
@@ -25243,14 +25249,6 @@
     {
       "id": "num_1785515482037_3ldg6",
       "number": "22601575829",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482037_m8vlk",
-      "number": "22671396841",
       "country": "Burkina Faso",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
