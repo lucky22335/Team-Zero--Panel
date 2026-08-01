@@ -607,6 +607,11 @@
               "number": "258824224673",
               "country": "Mozambique",
               "registeredAt": "2026-08-01T16:18:04.284Z"
+            },
+            {
+              "number": "258822850703",
+              "country": "Mozambique",
+              "registeredAt": "2026-08-01T16:18:23.645Z"
             }
           ]
         }
@@ -1160,7 +1165,8 @@
     "258831635486",
     "258826117950",
     "258836415326",
-    "258824224673"
+    "258824224673",
+    "258822850703"
   ],
   "manualNumbers": [
     {
@@ -30502,14 +30508,6 @@
     {
       "id": "num_1785515482155_etinb",
       "number": "258829879562",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482155_z0h2i",
-      "number": "258822850703",
       "country": "Mozambique",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
