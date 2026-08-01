@@ -828,7 +828,9 @@
     "211981406617",
     "263778300408",
     "263775994162",
-    "211981406088"
+    "211981406088",
+    "263776928883",
+    "263786411298"
   ],
   "manualNumbers": [
     {
@@ -79344,14 +79346,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515484128_vwqa5",
-      "number": "263786411298",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515484129_wwci0",
       "number": "263786112640",
       "country": "Zimbabwe",
@@ -102082,14 +102076,6 @@
     {
       "id": "num_1785559953571_1dscy",
       "number": "263776438748",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785559953573_pbqaj",
-      "number": "263776928883",
       "country": "Zimbabwe",
       "server": "Api 6",
       "addedAt": "2026-08-01T04:52:27.062Z",
