@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T00:40:09.000Z",
+          "number": "584162827862",
+          "service": "WhatsApp",
+          "message": "Codigo de WhatsApp Business 645-135nNo compartas este codigo con nadie",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T00:39:39.000Z",
           "number": "50932068454",
           "service": "WhatsApp",
@@ -335,14 +343,6 @@
           "number": "211981408035",
           "service": "IMO",
           "message": "# imo verification code 5414nNever share this code with anyonenW5EUe21Qadh",
-          "country": "Unknown",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T16:44:22.000Z",
-          "number": "211981404317",
-          "service": "IMO",
-          "message": "# imo verification code 3552nNever share this code with anyonenLGIS0nvV16S",
           "country": "Unknown",
           "source": "Api 6"
         }
@@ -795,7 +795,8 @@
     "211981402170",
     "211981401471",
     "211981402930",
-    "50932068454"
+    "50932068454",
+    "584162827862"
   ],
   "manualNumbers": [
     {
@@ -57655,14 +57656,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515483034_bohfl",
-      "number": "584162827862",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515483035_91ab9",
       "number": "584168304450",
       "country": "Venezuela",
@@ -91321,6 +91314,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T00:40:09.000Z",
+      "number": "584162827862",
+      "service": "WhatsApp",
+      "message": "Codigo de WhatsApp Business 645-135nNo compartas este codigo con nadie",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -95269,14 +95270,6 @@
       "number": "50932834300",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 103-274\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-29T04:44:02.000Z",
-      "number": "50932724846",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 578-505\nrJbAXP1KV",
       "country": "Haiti",
       "source": "Api 5"
     }
