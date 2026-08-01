@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T05:00:07.000Z",
+          "number": "258860711641",
+          "service": "Facebook",
+          "message": "# 796566 é o código de Facebook LaznxCarLW",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T04:41:14.000Z",
           "number": "211981400037",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "Your WhatsApp Business code 513-846nDont share this code with others",
           "country": "Venezuela",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T18:53:20.000Z",
-          "number": "263773284779",
-          "service": "TINDER",
-          "message": "#Your Tinder code is 671345ndwEzWOx6XSV",
-          "country": "Zimbabwe",
-          "source": "API 2"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -802,7 +802,8 @@
     "211981402170",
     "211981401471",
     "211981402930",
-    "211981400037"
+    "211981400037",
+    "258860711641"
   ],
   "manualNumbers": [
     {
