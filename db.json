@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T06:13:19.000Z",
+          "number": "211981403187",
+          "service": "IMO",
+          "message": "# imo verification code 2239nNever share this code with anyonenyQoy3qZldR",
+          "country": "Unknown",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T06:12:03.000Z",
           "number": "211981405423",
           "service": "Imo",
@@ -337,14 +345,6 @@
           "message": "Your imo verification code is 7049nDO NOT share with anyone else to prevent account being compromised",
           "country": "Unknown",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T05:00:07.000Z",
-          "number": "258860711641",
-          "service": "Facebook",
-          "message": "# 796566 é o código de Facebook LaznxCarLW",
-          "country": "Mozambique",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -837,7 +837,8 @@
     "211981401471",
     "211981402930",
     "211981401031",
-    "211981405423"
+    "211981405423",
+    "211981403187"
   ],
   "manualNumbers": [
     {
@@ -96209,14 +96210,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785559951495_2jinv",
-      "number": "211981403187",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785559951496_oviif",
       "number": "211981404758",
       "country": "Unknown",
@@ -124515,6 +124508,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T06:13:19.000Z",
+      "number": "211981403187",
+      "service": "IMO",
+      "message": "# imo verification code 2239nNever share this code with anyonenyQoy3qZldR",
+      "country": "Unknown",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -128143,14 +128144,6 @@
       "number": "50932715182",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 254-215\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-29T01:14:01.000Z",
-      "number": "50932715182",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business code 116-038\nDont share this code with others\nrJbAXP1KV",
       "country": "Haiti",
       "source": "Api 5"
     }
