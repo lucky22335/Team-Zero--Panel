@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T06:12:03.000Z",
+          "number": "211981405423",
+          "service": "Imo",
+          "message": "# Your imo verification code is 2790nDO NOT share with anyone else to prevent account being compromisednyQoy3qZldR",
+          "country": "Unknown",
+          "source": "API 2"
+        },
+        {
           "timestamp": "2026-08-01T06:10:26.000Z",
           "number": "211981401031",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "# 796566 é o código de Facebook LaznxCarLW",
           "country": "Mozambique",
           "source": "API 3"
-        },
-        {
-          "timestamp": "2026-08-01T04:41:14.000Z",
-          "number": "211981400037",
-          "service": "IMO",
-          "message": "# imo verification code 6927nNever share this code with anyonenLGIS0nvV16S",
-          "country": "Unknown",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -836,7 +836,8 @@
     "211981402170",
     "211981401471",
     "211981402930",
-    "211981401031"
+    "211981401031",
+    "211981405423"
   ],
   "manualNumbers": [
     {
@@ -97274,14 +97275,6 @@
     {
       "id": "num_1785559951592_a7vlu",
       "number": "211981402056",
-      "country": "Unknown",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T04:52:27.062Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785559951593_huvg0",
-      "number": "211981405423",
       "country": "Unknown",
       "server": "Api 6",
       "addedAt": "2026-08-01T04:52:27.062Z",
