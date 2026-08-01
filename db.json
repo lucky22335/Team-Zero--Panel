@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:10:13.000Z",
+          "number": "263782972206",
+          "service": "DISCORD",
+          "message": "Discord doğrulama kodunuz 966051",
+          "country": "Zimbabwe",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T18:07:35.000Z",
           "number": "50932127394",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "imo verification code 4853nNever share this code with anyone",
           "country": "Zimbabwe",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T17:10:54.000Z",
-          "number": "263782972206",
-          "service": "Telegram",
-          "message": "Telegram code 50948nnYou can also tap on this link to log innhttpstmelogin50948nnO2P2zjBpJ",
-          "country": "Zimbabwe",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -383,7 +383,23 @@
     "211981404758",
     "211981400605",
     "258833789563",
-    "211981401807"
+    "211981401807",
+    "258828066259",
+    "50932057893",
+    "50932954427",
+    "50932936371",
+    "50932082223",
+    "50932113781",
+    "50932095665",
+    "50932087737",
+    "50932120987",
+    "50932127394",
+    "50932104920",
+    "50932100479",
+    "50932118883",
+    "50932069529",
+    "50932097042",
+    "50932122492"
   ],
   "manualNumbers": [
     {
@@ -96421,6 +96437,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:10:13.000Z",
+      "number": "263782972206",
+      "service": "DISCORD",
+      "message": "Discord doğrulama kodunuz 966051",
+      "country": "Zimbabwe",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-08-01T18:07:35.000Z",
       "number": "50932127394",
       "service": "WhatsApp",
@@ -100409,14 +100433,6 @@
       "number": "50935057531",
       "service": "WhatsApp",
       "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 899-296\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T17:15:00.000Z",
-      "number": "50932761640",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 813-914\nrJbAXP1KV",
       "country": "Haiti",
       "source": "Api 5"
     }
