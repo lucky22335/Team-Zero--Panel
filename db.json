@@ -472,6 +472,16 @@
               "number": "380685873654",
               "country": "Ukraine",
               "registeredAt": "2026-08-01T15:58:20.110Z"
+            },
+            {
+              "number": "380980043568",
+              "country": "Ukraine",
+              "registeredAt": "2026-08-01T15:58:27.329Z"
+            },
+            {
+              "number": "380672867794",
+              "country": "Ukraine",
+              "registeredAt": "2026-08-01T15:58:38.133Z"
             }
           ]
         }
@@ -1006,7 +1016,9 @@
     "380984728154",
     "380980112898",
     "380673467903",
-    "380685873654"
+    "380685873654",
+    "380980043568",
+    "380672867794"
   ],
   "manualNumbers": [
     {
@@ -1604,14 +1616,6 @@
     {
       "id": "num_1785333898184_aqvft",
       "number": "380987425359",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-29T14:04:58.184Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785333898184_1sn3z",
-      "number": "380980043568",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-29T14:04:58.184Z",
@@ -43516,14 +43520,6 @@
     {
       "id": "num_1785515482526_cahzt",
       "number": "380961325171",
-      "country": "Ukraine",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482526_0tuxl",
-      "number": "380672867794",
       "country": "Ukraine",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
