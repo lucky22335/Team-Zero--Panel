@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:45:22.000Z",
+          "number": "50932071641",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business code 309-517\nDont share this code with others\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T18:43:57.000Z",
           "number": "50932057462",
           "service": "WhatsApp",
@@ -335,14 +343,6 @@
           "number": "50932127394",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 698-201\nDont share this code with others\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "API 3"
-        },
-        {
-          "timestamp": "2026-08-01T18:21:48.000Z",
-          "number": "50932932160",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business code 193-543\nDont share this code with others\nrJbAXP1KV",
           "country": "Haiti",
           "source": "API 3"
         }
@@ -96338,6 +96338,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:45:22.000Z",
+      "number": "50932071641",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business code 309-517\nDont share this code with others\nrJbAXP1KV",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T18:43:57.000Z",
       "number": "50932057462",
       "service": "WhatsApp",
@@ -100326,14 +100334,6 @@
       "number": "258860199901",
       "service": "Facebook",
       "message": "# 72309 é o teu código do Facebook\nH29QFsn4Sr",
-      "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T15:23:16.000Z",
-      "number": "258860034890",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp code 231-090\nDont share this code with others\n4sgLq1p5sV6",
       "country": "Mozambique",
       "source": "Api 5"
     }
