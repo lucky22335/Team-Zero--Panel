@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T05:46:55.000Z",
+          "number": "258860631595",
+          "service": "Facebook",
+          "message": "# 776897 é o código de Facebook H29QFsn4Sr",
+          "country": "Mozambique",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T05:44:50.000Z",
           "number": "211981405964",
           "service": "IMO",
@@ -337,14 +345,6 @@
           "message": "# Your imo verification code is 6763nDO NOT share with anyone else to prevent account being compromisednW5EUe21Qadh",
           "country": "Unknown",
           "source": "API 2"
-        },
-        {
-          "timestamp": "2026-08-01T00:47:26.000Z",
-          "number": "584165286970",
-          "service": "WhatsApp",
-          "message": "Your WhatsApp code 851-732nDont share this code with others",
-          "country": "Venezuela",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -821,7 +821,8 @@
     "211981402930",
     "211981404589",
     "211981409632",
-    "211981405964"
+    "211981405964",
+    "258860631595"
   ],
   "manualNumbers": [
     {
