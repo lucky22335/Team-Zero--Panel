@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T19:09:36.000Z",
+          "number": "263774214990",
+          "service": "Telegram",
+          "message": "Telegram code 26295nnYou can also tap on this link to log innhttpstmelogin26295nnO2P2zjBpJ",
+          "country": "Zimbabwe",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T19:05:49.000Z",
           "number": "50932097042",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "# Your imo verification code is 8581nDO NOT share with anyone else to prevent account being compromisednLGIS0nvV16S",
           "country": "Venezuela",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T18:37:05.000Z",
-          "number": "584166476813",
-          "service": "IMO",
-          "message": "# Your imo verification code is 9709nDO NOT share with anyone else to prevent account being compromisednLGIS0nvV16S",
-          "country": "Venezuela",
-          "source": "Api 6"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -433,7 +433,8 @@
     "50932076163",
     "50932118941",
     "50932979476",
-    "50932109974"
+    "50932109974",
+    "263774214990"
   ],
   "manualNumbers": [
     {
@@ -84901,14 +84902,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785603884277_7zx8e",
-      "number": "263774214990",
-      "country": "Zimbabwe",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T17:04:41.904Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785603884277_pq0w5",
       "number": "263777944133",
       "country": "Zimbabwe",
@@ -96279,6 +96272,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T19:09:36.000Z",
+      "number": "263774214990",
+      "service": "Telegram",
+      "message": "Telegram code 26295nnYou can also tap on this link to log innhttpstmelogin26295nnO2P2zjBpJ",
+      "country": "Zimbabwe",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-08-01T19:05:49.000Z",
       "number": "50932097042",
       "service": "WhatsApp",
@@ -100267,14 +100268,6 @@
       "number": "50932733599",
       "service": "WhatsApp",
       "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 139-958\n4sgLq1p5sV6",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-25T15:19:32.000Z",
-      "number": "50932779969",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 988-085\n4sgLq1p5sV6",
       "country": "Haiti",
       "source": "Api 5"
     }
