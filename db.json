@@ -487,6 +487,11 @@
               "number": "380962935311",
               "country": "Ukraine",
               "registeredAt": "2026-08-01T15:58:45.389Z"
+            },
+            {
+              "number": "258837965528",
+              "country": "Mozambique",
+              "registeredAt": "2026-08-01T16:09:08.764Z"
             }
           ]
         }
@@ -1026,7 +1031,8 @@
     "380672867794",
     "380962935311",
     "50932115269",
-    "50932103349"
+    "50932103349",
+    "258837965528"
   ],
   "manualNumbers": [
     {
@@ -32064,14 +32070,6 @@
     {
       "id": "num_1785515482191_g9pge",
       "number": "258827500900",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482191_33kdn",
-      "number": "258837965528",
       "country": "Mozambique",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
