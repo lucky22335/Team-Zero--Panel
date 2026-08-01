@@ -647,6 +647,16 @@
               "number": "258823510771",
               "country": "Mozambique",
               "registeredAt": "2026-08-01T16:21:12.204Z"
+            },
+            {
+              "number": "258827515097",
+              "country": "Mozambique",
+              "registeredAt": "2026-08-01T16:21:31.578Z"
+            },
+            {
+              "number": "258833410476",
+              "country": "Mozambique",
+              "registeredAt": "2026-08-01T16:21:56.706Z"
             }
           ]
         }
@@ -1208,7 +1218,9 @@
     "258824121757",
     "258835519427",
     "258835330834",
-    "258823510771"
+    "258823510771",
+    "258827515097",
+    "258833410476"
   ],
   "manualNumbers": [
     {
@@ -31116,14 +31128,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515482167_duuld",
-      "number": "258827515097",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515482167_g3m8w",
       "number": "258835097544",
       "country": "Mozambique",
@@ -32750,14 +32754,6 @@
     {
       "id": "num_1785515482210_zvra8",
       "number": "258835119154",
-      "country": "Mozambique",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515482211_wx0nj",
-      "number": "258833410476",
       "country": "Mozambique",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
