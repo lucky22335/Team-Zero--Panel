@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T04:12:17.000Z",
+          "number": "584166185449",
+          "service": "34643034434",
+          "message": "Únete a WA Nos permite enviar mensajes de forma privada y co",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T04:12:07.000Z",
           "number": "584167406771",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "Your WhatsApp account is being registered on a new devicennDo not share this code with anyonenYour WhatsApp code 446-556",
           "country": "Venezuela",
           "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-07-31T17:54:16.000Z",
-          "number": "50932914236",
-          "service": "Rednote",
-          "message": "[rednote] Your verification code is 169422 for login via phone number valid for 5 mins Do not share it with anyone",
-          "country": "Haiti",
-          "source": "API 3"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -800,7 +800,8 @@
     "211981402170",
     "211981401471",
     "211981402930",
-    "584167406771"
+    "584167406771",
+    "584166185449"
   ],
   "manualNumbers": [
     {
@@ -48692,14 +48693,6 @@
       "autoAdded": true
     },
     {
-      "id": "num_1785515482672_rf0et",
-      "number": "584166185449",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
       "id": "num_1785515482672_xpxc1",
       "number": "584161052617",
       "country": "Venezuela",
@@ -91326,6 +91319,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T04:12:17.000Z",
+      "number": "584166185449",
+      "service": "34643034434",
+      "message": "Únete a WA Nos permite enviar mensajes de forma privada y co",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -95210,14 +95211,6 @@
       "number": "50932730361",
       "service": "WhatsApp",
       "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 300-823\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-29T04:05:03.000Z",
-      "number": "50932753728",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 138-923\nrJbAXP1KV",
       "country": "Haiti",
       "source": "Api 5"
     }
