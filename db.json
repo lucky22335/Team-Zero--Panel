@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T08:42:57.000Z",
+          "number": "22673539800",
+          "service": "WhatsApp",
+          "message": "# Your WhatsApp Business code 640-785nDont share this code with othersnrJbAXP1KV",
+          "country": "Burkina Faso",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T08:40:07.000Z",
           "number": "258860800564",
           "service": "WhatsApp",
@@ -335,14 +343,6 @@
           "number": "211981406262",
           "service": "IMO",
           "message": "# imo verification code 0037nNever share this code with anyonenyQoy3qZldR",
-          "country": "Unknown",
-          "source": "Api 6"
-        },
-        {
-          "timestamp": "2026-08-01T06:42:30.000Z",
-          "number": "211981404451",
-          "service": "IMO",
-          "message": "# Your imo verification code is 5984nDO NOT share with anyone else to prevent account being compromisednyQoy3qZldR",
           "country": "Unknown",
           "source": "Api 6"
         }
@@ -879,7 +879,8 @@
     "258860800564",
     "211981402170",
     "211981401471",
-    "211981402930"
+    "211981402930",
+    "22673539800"
   ],
   "manualNumbers": [
     {
@@ -22205,14 +22206,6 @@
     {
       "id": "num_1785515481991_dc55w",
       "number": "22601182113",
-      "country": "Burkina Faso",
-      "server": "Api 6",
-      "addedAt": "2026-07-31T16:31:21.817Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785515481991_mrfpv",
-      "number": "22673539800",
       "country": "Burkina Faso",
       "server": "Api 6",
       "addedAt": "2026-07-31T16:31:21.817Z",
@@ -124589,6 +124582,14 @@
       "source": "Api 6"
     },
     {
+      "timestamp": "2026-08-01T08:42:57.000Z",
+      "number": "22673539800",
+      "service": "WhatsApp",
+      "message": "# Your WhatsApp Business code 640-785nDont share this code with othersnrJbAXP1KV",
+      "country": "Burkina Faso",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-07-25T07:46:25.000Z",
       "number": "258861387272",
       "service": "WhatsApp",
@@ -127849,14 +127850,6 @@
       "number": "50932757837",
       "service": "WhatsApp",
       "message": "# Code WhatsApp Business  323-131\nNe partagez pas ce code\nrJbAXP1KV",
-      "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-28T20:34:45.000Z",
-      "number": "50932746762",
-      "service": "WhatsApp",
-      "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 154-001\nrJbAXP1KV",
       "country": "Haiti",
       "source": "Api 5"
     }
