@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:55:34.000Z",
+          "number": "50932071641",
+          "service": "WhatsApp",
+          "message": "# Code WhatsApp Business  338-855\nNe partagez pas ce code\nrJbAXP1KV",
+          "country": "Haiti",
+          "source": "API 3"
+        },
+        {
           "timestamp": "2026-08-01T18:54:53.000Z",
           "number": "584164373864",
           "service": "IMO",
@@ -335,14 +343,6 @@
           "number": "50932097042",
           "service": "WhatsApp",
           "message": "# Your WhatsApp Business code 394-766\nDont share this code with others\nrJbAXP1KV",
-          "country": "Haiti",
-          "source": "API 3"
-        },
-        {
-          "timestamp": "2026-08-01T18:31:54.000Z",
-          "number": "50932938181",
-          "service": "WhatsApp",
-          "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 752-036\nrJbAXP1KV",
           "country": "Haiti",
           "source": "API 3"
         }
@@ -96275,6 +96275,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:55:34.000Z",
+      "number": "50932071641",
+      "service": "WhatsApp",
+      "message": "# Code WhatsApp Business  338-855\nNe partagez pas ce code\nrJbAXP1KV",
+      "country": "Haiti",
+      "source": "API 3"
+    },
+    {
       "timestamp": "2026-08-01T18:54:53.000Z",
       "number": "584164373864",
       "service": "IMO",
@@ -100264,14 +100272,6 @@
       "service": "WhatsApp",
       "message": "# Your WhatsApp account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp code 784-013\n4sgLq1p5sV6",
       "country": "Haiti",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-25T20:59:19.000Z",
-      "number": "258860252829",
-      "service": "Facebook",
-      "message": "123995 é o seu código de confirmação de Facebook para Android",
-      "country": "Mozambique",
       "source": "Api 5"
     }
   ]
