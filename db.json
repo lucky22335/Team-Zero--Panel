@@ -107,6 +107,14 @@
       ],
       "otpHistory": [
         {
+          "timestamp": "2026-08-01T18:29:47.000Z",
+          "number": "584166804428",
+          "service": "IMO",
+          "message": "5072",
+          "country": "Venezuela",
+          "source": "Api 6"
+        },
+        {
           "timestamp": "2026-08-01T18:29:29.000Z",
           "number": "50932093709",
           "service": "WhatsApp",
@@ -337,14 +345,6 @@
           "message": "# Your WhatsApp Business account is being registered on a new device\n\nDo not share this code with anyone\nYour WhatsApp Business code 830-429\nrJbAXP1KV",
           "country": "Haiti",
           "source": "API 3"
-        },
-        {
-          "timestamp": "2026-08-01T17:56:20.000Z",
-          "number": "258833789563",
-          "service": "35737",
-          "message": "Digit- 82642",
-          "country": "Mozambique",
-          "source": "API 2"
         }
       ],
       "createdAt": "2026-07-29T19:02:52.015Z",
@@ -409,7 +409,8 @@
     "50932975057",
     "584267869849",
     "584164733887",
-    "50932093709"
+    "50932093709",
+    "584166804428"
   ],
   "manualNumbers": [
     {
@@ -39487,14 +39488,6 @@
     {
       "id": "num_1785603882431_z82ps",
       "number": "584164731850",
-      "country": "Venezuela",
-      "server": "Api 6",
-      "addedAt": "2026-08-01T17:04:41.904Z",
-      "autoAdded": true
-    },
-    {
-      "id": "num_1785603882432_bqxlq",
-      "number": "584166804428",
       "country": "Venezuela",
       "server": "Api 6",
       "addedAt": "2026-08-01T17:04:41.904Z",
@@ -96407,6 +96400,14 @@
   ],
   "manualSms": [
     {
+      "timestamp": "2026-08-01T18:29:47.000Z",
+      "number": "584166804428",
+      "service": "IMO",
+      "message": "5072",
+      "country": "Venezuela",
+      "source": "Api 6"
+    },
+    {
       "timestamp": "2026-08-01T18:29:29.000Z",
       "number": "50932093709",
       "service": "WhatsApp",
@@ -100396,14 +100397,6 @@
       "service": "WhatsApp",
       "message": "# Your WhatsApp code 402-671\nDont share this code with others\n4sgLq1p5sV6",
       "country": "Mozambique",
-      "source": "Api 5"
-    },
-    {
-      "timestamp": "2026-07-26T16:41:31.000Z",
-      "number": "50932812683",
-      "service": "WhatsApp",
-      "message": "Your WhatsApp code 436-200\n\nDont share this code with others",
-      "country": "Haiti",
       "source": "Api 5"
     }
   ]
