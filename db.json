@@ -19,10 +19,100 @@
     "263777577125",
     "213557543681",
     "263785274347",
-    "584168103119"
+    "584168103119",
+    "2347020461958",
+    "2347020946925",
+    "2347020188829",
+    "2347020121991",
+    "2347020792783",
+    "2347020359902",
+    "2347020183259",
+    "2347020209511",
+    "2347020188722",
+    "2347020614681"
   ],
   "manualNumbers": [],
   "manualSms": [
+    {
+      "timestamp": "2026-10-29T02:40:06.000Z",
+      "number": "2347020614681",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 437754",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:40:28.000Z",
+      "number": "2347020188722",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 658308",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:40:43.000Z",
+      "number": "2347020209511",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 614873",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:41:06.000Z",
+      "number": "2347020183259",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 020300",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:41:14.000Z",
+      "number": "2347020359902",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 787316",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:42:05.000Z",
+      "number": "2347020792783",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 611005",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:42:18.000Z",
+      "number": "2347020121991",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 755915",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:42:45.000Z",
+      "number": "2347020188829",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 816007",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:43:07.000Z",
+      "number": "2347020946925",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 925667",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
+    {
+      "timestamp": "2026-10-29T02:43:15.000Z",
+      "number": "2347020461958",
+      "service": "TWVerify",
+      "message": "Your Hotya verification code is 471209",
+      "country": "Nigeria",
+      "source": "API 2"
+    },
     {
       "timestamp": "2026-08-12T22:02:21.000Z",
       "number": "584168103119",
